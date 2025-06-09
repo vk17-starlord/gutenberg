@@ -6,7 +6,7 @@ $pagination-margin: 0.5em;
 	> .wp-block-comments-pagination-numbers {
 		/*rtl:ignore*/
 		margin-right: $pagination-margin;
-		margin-bottom: $pagination-margin;
+		margin-bottom: 0;
 
 		font-size: inherit;
 		&:last-child {
